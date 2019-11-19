@@ -7,6 +7,10 @@
             <list>
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
+                <option name="version" value="7.1.2" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
                 <option name="version" value="7.1.1" />
               </BaseProjectGroupState>
               <BaseProjectGroupState>
@@ -24,6 +28,10 @@
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
                 <option name="version" value="7.1.0.BETA1" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.12" />
               </BaseProjectGroupState>
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
@@ -84,6 +92,10 @@
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
                 <option name="version" value="7.0.0.BETA1" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.14" />
               </BaseProjectGroupState>
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
