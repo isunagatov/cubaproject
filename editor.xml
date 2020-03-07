@@ -3,12 +3,14 @@
     <option name="languageBreadcrumbsMap">
       <map>
         <entry key="JAVA" value="true" />
+        <entry key="XML" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
